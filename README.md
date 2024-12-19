@@ -18,4 +18,10 @@ The app requires the following libraries:
 - **Pandas**: For reading and manipulating data.
 - **Seaborn**: For creating the heatmap.
 - **Matplotlib**: For plotting the heatmap.
-####3
+
+## Output
+
+![Output Image 1](https://github.com/minalmmm/Heatmap-for-Class-Participation/blob/main/images/img1.png)
+![Output Image 1](https://github.com/minalmmm/Heatmap-for-Class-Participation/blob/main/images/img2.png)
+![Output Image 1](https://github.com/minalmmm/Heatmap-for-Class-Participation/blob/main/images/img3.png)
+![Output Image 1](https://github.com/minalmmm/Heatmap-for-Class-Participation/blob/main/images/img4.png)
